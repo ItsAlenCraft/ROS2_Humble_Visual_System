@@ -36,13 +36,13 @@ aed detector
 
 ros2 run aed camera_pub
 
-
+# Terminal 1 Continuation 
 
 cd ~/ws2
 source install/setup.bash
 ros2 run aed camera.py
 
-# USE CTRL+SHIFT+T in Ubuntu 22.04
+USE CTRL+SHIFT+T in Ubuntu 22.04
 
 No need to colcon build in terminal 2 and 3
 
@@ -51,7 +51,7 @@ cd ~/ws2
 source install/setup.bash
 ros2 run aed detector.py
 
-# USE CTRL+SHIFT+T to open a new terminal
+USE CTRL+SHIFT+T to open a new terminal
 
 # Terminal 3
 cd ~/ws2
