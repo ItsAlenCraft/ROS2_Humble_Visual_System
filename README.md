@@ -1,6 +1,8 @@
-# ROS2_Humble_VissualCodes
-ROS2 Humble VissualCodes. This use your build in Camera or external camera. It has a build in detecter which is not 100% complete and still in development.
+# ROS2_Humble_Visual_System
+ROS2 Humble Visual System. This use your build in Camera or external camera. It has a build in detecter which is not 100% complete and still in development.
 OS: Ubuntu 22.04 (Jammy Jellyfish)
+
+The file is large so it is compressed to a zip file
 
 Extract ws2.zip as ws2 folder in Home folder or in any location
 
