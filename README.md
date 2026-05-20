@@ -1,4 +1,4 @@
-# ROS2_Humble_Visual_System
+# ROS2 Humble Visual System
 ROS2 Humble Visual System. This use your build in Camera or external camera. It has a build in detecter which is not 100% complete and still in development.
 OS: Ubuntu 22.04 (Jammy Jellyfish)
 
